@@ -1,0 +1,53 @@
+1. Builder Pattern
+The builder patterns allows creation of very complex and customizable objects 
+
+2. Observer Pattern
+In the observer pattern all of the "subscribers" get notified when changes occur 
+
+3. Singelton Pattern
+In the singlton pattern only one instance is allowed
+
+4. State Pattern
+The state pattern has different method depending on the current state
+
+5. Template Pattern
+The template pattern has the same order of actions but with different implementation 
+for each case
+
+6. Facade Pattern 
+The facade pattern serves as a simple interface for actions which can have a
+complex code behind
+
+7. Decorator Pattern
+The Decortor pattern allows modifiyng instances mid run
+
+8. Chain of Responsibility Pattern
+The CoR Pattern handles requests in an order
+
+9. Composite Pattern
+The composite pattern uses recursion to traverse data structures with "containers" and "leaves"
+
+10. Abstract Factory
+The abstract factory allows multi creation of objects and their combination
+
+11. Facade Pattern
+The facade pattern allows executing commands that can have complex code behind
+from a simple interface (I'd add the adapter pattern here as well)
+
+12. Strategy Pattern
+The strategy pattern allows changing of the implementation without changing the code
+
+13. Proxy Pattern
+The proxy pattern handles requests and allows which ones can go forward
+
+14. Iterator Pattern
+The iterator pattern allows the "looping" of items in an object
+
+15. Prototype pattern
+The prototype patterns allows deep cloning of objects, and the 
+ability of changing specific attributes
+
+
+
+
+
